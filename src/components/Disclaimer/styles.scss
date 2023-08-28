@@ -1,0 +1,31 @@
+.disclaimer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0.8em;
+  opacity: 0.75;
+
+  img {
+    width: 1.6em;
+    margin-right: 1em;
+  }
+
+  p {
+    padding: 0;
+    margin: 0;
+    font-size: 0.75em;
+    font-family: 'arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+
+    a {
+      color: inherit !important;
+      text-decoration: underline;
+    }
+  }
+}

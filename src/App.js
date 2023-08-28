@@ -1,4 +1,4 @@
-import { GameList, Player } from 'components';
+import { Disclaimer, GameList, Player } from 'components';
 
 import './App.css';
 import { useState } from 'react';
@@ -10,6 +10,7 @@ function App() {
     <main className="app">
       <Player game={selectedGame} />
       <GameList selectedGame={selectedGame} onSelect={setSelectedGame} />
+      <Disclaimer />
     </main>
   );
 }

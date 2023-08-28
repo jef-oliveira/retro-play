@@ -1,3 +1,4 @@
+import pack from '../../package.json';
 import games from './games.json';
 
 function gameSrc(game) {
@@ -10,6 +11,6 @@ function gameSrc(game) {
   return src;
 }
 
-const Config = { games, gameSrc };
+const Config = { games, gameSrc, version: pack?.version };
 
 export default Config;
