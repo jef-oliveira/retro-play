@@ -1,0 +1,43 @@
+.player {
+  width: 100vw;
+  height: 100vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: center / cover no-repeat;
+
+  .screen {
+    position: relative;
+    max-width: 800px;
+    max-height: 600px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #222;
+    padding: 2px;
+    border-radius: 16px;
+    overflow: hidden;
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    .bezel {
+      pointer-events:none;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+    }
+
+    &.ejs_parent {
+      .ejs_start_button {
+        position: absolute;
+      }
+    }
+  }
+}

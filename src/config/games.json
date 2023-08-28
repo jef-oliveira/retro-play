@@ -1,0 +1,22 @@
+[
+  {
+    "logoUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/logo/mslug.png",
+    "bgUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/bg/mslug.webp",
+    "embedUrl": "https://www.retrogames.cc/embed/9157-metal-slug-super-vehicle-001.html"
+  },
+  {
+    "logoUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/logo/dmnfrnt.png",
+    "bgUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/bg/dmnfrnt.webp",
+    "embedUrl": "https://www.retrogames.cc/embed/8250-demon-front-v105.html"
+  },
+  {
+    "logoUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/logo/ffight.png",
+    "bgUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/bg/ffight.webp",
+    "embedUrl": "https://www.retrogames.cc/embed/8497-final-fight-900112-usa.html"
+  },
+  {
+    "logoUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/logo/dino.png",
+    "bgUrl": "https://raw.githubusercontent.com/jef-oliveira/retro-play/resources/bg/dino.webp",
+    "embedUrl": "https://www.retrogames.cc/embed/8038-cadillacs-dinosaurs-930201-usa.html"
+  }
+]
