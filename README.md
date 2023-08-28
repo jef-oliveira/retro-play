@@ -1,2 +1,3 @@
 # retro-play
-SImple frontend app for emulatorjs
+A simple frontend app for [emulatorjs.com](https://www.emulatorjs.com)
+[Try it!](https://jef-oliveira.github.io/retro-play)
